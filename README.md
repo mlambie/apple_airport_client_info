@@ -8,7 +8,7 @@ This script is being used obtain data for graphing the signal strength, noise an
 
 All three parameters are required - the Apple Airport device you're connecting to, the SNMP community string and the MAC address of the wireless client you're investigating.
 
-    $ ./apple_airport_client_info.rb --help
+    $ ruby apple_airport_client_info.rb --help
     USAGE: ruby apple_airport_client_info.rb -x <host> -c <community> -m <mac>
 
     -x, --host           Apple Airport device IP or host name.
