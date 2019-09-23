@@ -23,7 +23,7 @@ All three parameters are required - the Apple Airport device you're connecting t
 
 ### Cacti Integration
 
-Coming soon!
+Coming ~soon~ never!
 
 ### Contributors
 
